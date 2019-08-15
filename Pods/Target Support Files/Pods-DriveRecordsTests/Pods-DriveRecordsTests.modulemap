@@ -1,0 +1,6 @@
+framework module Pods_DriveRecordsTests {
+  umbrella header "Pods-DriveRecordsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
